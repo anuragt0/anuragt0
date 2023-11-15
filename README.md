@@ -30,11 +30,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=2C2255&logo=Postman&logoColor=2C2255&label=)
 
 <br/>
 
 <a href="https://github.com/anuragt0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anurag0&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragt0&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragt0&theme=buefy&layout=compact" />
 </a>
 
@@ -43,9 +44,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anurag-tiwari-15a7a61b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/anuragt0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:anuragtiw112@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/anurag-tiwari-15a7a61b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anurag%20Tiwari-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/anuragt0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anuagt0-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:anuragtiw112@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anuragtiw112@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [anuragt0](https://github.com/anuragt0)
